@@ -1,5 +1,7 @@
 # Waste-Category-Classifier
 
+"The dataset used in this project is from the Satria Data Big Data Challenge 2026 Competition. Due to its large size and licensing, it is not included in this repository. You can download the dataset from https://drive.google.com/drive/folders/1Wkn2KazyHsSqBQnONkI98SnN--k3gAT7"
+
 This repository contains my team solution for  the **Satria Data Big Data Challenge 2026** competition. The goal of this project is to accurately classify types of trash/recyclable material to support environmental sustainability.
 
 Our final model achieved an outstanding **97% F1-Score/Accuracy** on the validation set.
