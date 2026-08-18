@@ -38,7 +38,8 @@ Waste-Category-Classifier/
 │
 ├── 📄 .gitignore                # Configuration to prevent large files from being tracked
 ├── 📄 LICENSE                   # MIT License
-└── 📄 README.md                 # Project documentation (You are here!) 
+└── 📄 README.md                 # Project documentation (You are here!)
+```   
 
 ## 📈 Results
 The optimized ensemble achieved the following results on the validation set:
