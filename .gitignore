@@ -1,0 +1,6 @@
+data/
+model/
+__pycache__/
+.ipynb_checkpoints/
+scripts/val_probs_*.csv
+scripts/test_probs_*.csv
