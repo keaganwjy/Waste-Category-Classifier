@@ -20,6 +20,7 @@ Instead of relying on aa single model, this project utilizes an advanced pipelin
 
 ## 📂 Repository Structure
 
+```text
 Waste-Category-Classifier/
 │
 ├── 📁 notebooks/                # Jupyter Notebooks for EDA and Model Experimentation
@@ -37,12 +38,7 @@ Waste-Category-Classifier/
 │
 ├── 📄 .gitignore                # Configuration to prevent large files from being tracked
 ├── 📄 LICENSE                   # MIT License
-└── 📄 README.md                 # Project documentation (You are here!)
-
-## 🛠️ Tech Stack
-- **Frameworks**: PyTorch, Tensorflow/Keras, Ultralytics (YOLO), scikit-learn
-- **Data Manipulation**: Pandas, NumPy
-- **Optimization**: SciPy
+└── 📄 README.md                 # Project documentation (You are here!) 
 
 ## 📈 Results
 The optimized ensemble achieved the following results on the validation set:
